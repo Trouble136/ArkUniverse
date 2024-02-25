@@ -1,0 +1,203 @@
+     " W B U I 2 " :   { 
+ 
+ 	 " s e t t i n g s " : 
+ 
+ 	 { 
+ 
+ 	 	 " O p e n B u t t o n " :   0 , 
+ 
+ 	 	 " H i d e I c o n " :   f a l s e , 
+ 
+ 	 	 " H i d e I c o n A f t e r " :   6 0 , 
+ 
+ 	 	 " I c o n U R L " :   " h t t p s : / / i m g u r . c o m / A t 0 B Z Z x . j p e g " , 
+ 
+ 	 	 " D i s a b l e I c o n T e x t " :   t r u e , 
+ 
+ 	 	 " I c o n P o s i t i o n " :   1 , 
+ 
+ 	 	 " I c o n T e x t C o l o r " :   7 , 
+ 
+ 	 	 " O p e n O n S t a r t " :   t r u e , 
+ 
+ 	 	 " O p e n O n S t a r t O n l y N e w P l a y e r s " :   f a l s e , 
+ 
+ 	 	 " U p d a t e I n t e r v a l " :   1 2 
+ 
+ 	 } , 
+ 
+ 	 " t a b s " :   [ 
+ 
+ 	 	 { 
+ 
+ 	 	 	 " t a b 1 " : 
+ 
+ 	 	 	 { 
+ 
+ 	 	 	 	 " l a y o u t " :   3 , 
+ 
+ 	 	 	 	 " b u t t o n t e x t " :   " W e l c o m e " , 
+ 
+ 	 	 	 	 " t i t l e 1 " :   " W e l c o m e   t o   A R K   U n i v e r s e ! " , 
+ 
+ 	 	 	 	 " t e x t 1 " :   " F i r s t   T i m e ? \ r \ n W e l c o m e !   B e f o r e   d i v i n g   i n ,   p l e a s e   t a k e   a   m o m e n t   t o   f a m i l i a r i z e   y o u r s e l f   w i t h   o u r   c o m m u n i t y   s t a n d a r d s ,   r u l e s   a n d   s e t t i n g s   o n   t h i s   U I .   F o r   a   m o r e   c o m p r e h e n s i v e   i n f o r m a t i o n ,   p l e a s e   s e e   o u r   D i s c o r d   a n d   o r   t h e   r u l e s   s e c t i o n   o f   t h i s   U I . \ r \ n \ r \ n I f   y o u   p l a n   o n   s t i c k i n g   a r o u n d ,   a   f e w   b a s i c   h o u s e   r u l e s   t h a t   m u s t   b e   f o l l o w e d : \ r \ n \ r \ n 1 .   N a m e   y o u r   c h a r a c t e r   ( n o   h u m a n   /   h u m a n o   e t c . ) \ r \ n 2 .   F o r m   /   J o i n   a   T r i b e   a n d   n a m e   i t   ( n o   h u m a n   /   h u m a n o   e t c . ) \ r \ n 3 .   J o i n   o u r   D i s c o r d   a n d   p l e a s e   p u t   y o u r   d i s c o r d   n a m e   a s   y o u r   g a m e r t a g   w i t h   t r i b e   n a m e   a s   w e l l \ r \ n 4 .   N o   a g g r e s s i v e / r a c i a l / s e x u a l   l a n g u a g e \ r \ n 5 .   C h e c k   o u t   t h e   R u l e s   t a b   i n   t h i s   U I   a n d   t h e   D i s c o r d   f o r   a   m o r e   c o m p r e h e n s i v e   l i s t   o f   r u l e s . \ r \ n \ r \ n D i s c o r d : \ r \ n J o i n   t h e   D i s c o r d   u s i n g   t h e   ' j o i n   l i n k   b e l o w   o r   a l t e r n a t i v e l y   v i a :   h t t p s : / / d i s c o r d . g g / U x D W g C g 7 " , 
+ 
+ 	 	 	 	 " i m a g e u r l " :   " h t t p s : / / i . i m g u r . c o m / x M l 1 y b M . j p e g " , 
+ 
+ 	 	 	 	 " t i t l e 2 " :   " A b o u t   T h i s   S e r v e r " , 
+ 
+ 	 	 	 	 " t e x t 2 " :   " W h a t   i s   t h i s   p l a c e ? \ r \ n \ r \ n A R K   U n i v e r s e   o f f e r s   o u r   v e r s i o n   o f   a   b a l a n c e d ,   l o n g - t e r m   e x p e r i e n c e   w i t h   s l i g h t l y   i n c r e a s e d   r a t e s / s t a t s   f o r   a   m o r e   r e q a r d i n g   g a m e p l a y ,   w i t h o u t   t h e   e x c e s s i v e   g r i n d   o f   o f f i c i a l   s e r v e r s .   A l o n g   w i t h   t h e   i n c r e a s e d   r a t e s / s t a t s ,   w e   h a v e   i n c r e a s e d   t h e   l e v e l   o f   d i n o s a u r s   w i t h   t h e   w i l d   d i n o   c a p   b e i n g   s e t   t o   6 6 0 * * * * . \ r \ n \ r \ n S e e   t h e   m o d s   a n d   s e r v e r   d e t a i l s   p a g e s   f o r   m o r e   i n f o r m a t i o n   o n   t h i s   s e r v e r . " , 
+ 
+ 	 	 	 	 " t i t l e 3 " :   " W h a t s   N e w   /   E v e n t s " , 
+ 
+ 	 	 	 	 " t e x t 3 " :   " A d d   u p c o m i n g   i n f o m a t i o n   i . e   a d d i t i o n   o f   v a l e n t i n e s   m o d   a n d   w h a t   i t   d o e s . \ r \ n \ r \ n T h e   p l a n   t o   c r e a t e   a   c l u s t e r   a n d   h a v e   b o t h   i s l a n d   a n d   c e n t r e   o n   i t . \ r \ n \ r \ n S u g g e s t i o n ,   w e e k e n d   /   e v e n i n g   s p a w n s   o f   s h i n y s   e t c .   t o   k e e p   i t   i n t e r e s t i n g . " 
+ 
+ 	 	 	 } 
+ 
+ 	 	 } , 
+ 
+ 	 	 { 
+ 
+ 	 	 	 " t a b 2 " : 
+ 
+ 	 	 	 { 
+ 
+ 	 	 	 	 " l a y o u t " :   3 , 
+ 
+ 	 	 	 	 " b u t t o n t e x t " :   " R u l e s " , 
+ 
+ 	 	 	 	 " t i t l e 1 " :   " C o m m u n i t y   S t a n d a r d s   &   R u l e s " , 
+ 
+ 	 	 	 	 " t e x t 1 " :   " W e l c o m e   t o   A R K   U n i v e r s e   C o m m u n i t y   S t a n d a r d s   &   R u l e s .   T h e   f o l l o w i n g   r u l e s   s h a l l   b e   f o l l o w e d   i f   y o u   p l a n   t o   b e c o m e   p a r t   o f   o u r   c o m m u n i t y ,   f a i l u r e   t o   d o   s o   m a y   r e s u l t   i n   a d m i n s   b e i n g   r e q u i r e d   t o   i n t e r v e n e   o r   p o s s i b l y   a   s e r v e r   b a n : \ r \ n \ r \ n 1 .   N a m e   y o u r   c h a r a c t e r   ( n o   h u m a n   /   h u m a n o   e t c . ) \ r \ n 2 .   F o r m   /   J o i n   a   T r i b e   a n d   n a m e   i t   ( n o   h u m a n   /   h u m a n o   e t c . ) \ r \ n 3 .   J o i n   o u r   D i s c o r d   a n d   p l e a s e   p u t   y o u r   d i s c o r d   n a m e   a s   y o u r   g a m e r t a g   w i t h   t r i b e   n a m e   a s   w e l l \ r \ n 4 .   N o   b l o c k i n g   o f f   o r   b u i l d i n g   i n / o n   c a v e   e n t r a n c e s / a r t i f a c t   c a v e s   o r   s p a w n   l o c a t i o n s \ r \ n 5 .   N o   b u i l d i n g   i n   m a j o r   r e s o u r c e   a r e a s \ r \ n 6 .   N o   p i l l a r i n g   a r o u n d   y o u r   b a s e   o r   a n y w h e r e \ r \ n 7 .   N o   t r a p p i n g / c a g i n g   o t h e r   p l a y e r s   ( a u t o m a t i c   b a n ) \ r \ n 8 .   N o   g r i e f i n g   a n y o n e   E V E R   ( a u t o m a t i c   b a n ) \ r \ n 9 .   N o   a g g r e s s i v e / r a c i a l / s e x u a l   l a n g u a g e \ r \ n 1 0 .   N o   o f f l i n e   b r e e d i n g \ r \ n 1 1 .   N o   l e a v i n g   t a m e s   o n   w a n d e r   o u t s i d e   o f   y o u r   b a s e \ r \ n 1 2 .   N o   b u i l d i n g   o n   C a r n i v o r e   I s l a n d \ r \ n 1 3 .   A n i m a l   t r a p s   c a n   b e   b u i l t   a n y w h e r e .   H o w e v e r ,   o n c e   y o u ' v e   t a m e d   t h e   d i n o ,   r e m o v e   t h e   t r a p \ r \ n 1 4 . A l l   p l a y e r s   a r e   a l l o w e d   a   m a x i m u m   o f   t w o   b a s e s \ r \ n 1 5 .   A l l   p l a y e r s   a r e   r e q u i r e d   t o   c o m p l e t e   r u l e s   a s   p e r   B a s e   C o r d i n a t e s   a n d   M o n t h l y   F l a g   S y s t e m   t a b s   t o   t h e   r i g h t   i n   t h i s   U I \ r \ n 1 6 .   A l l   p l a y e r s   a r e   r e q u i r e d   t o   c o m p l e t e   r u l e s   1 - 3   a s   s o o n   a s   p o s s i b l e . " , 
+ 
+ 	 	 	 	 " i m a g e u r l " :   " h t t p s : / / i . i m g u r . c o m / x M l 1 y b M . j p e g " , 
+ 
+ 	 	 	 	 " t i t l e 2 " :   " B a s e   C o r d i n a t e s " , 
+ 
+ 	 	 	 	 " t e x t 2 " :   " Y o u ' v e   n o w   s e t   u p   y o u r   b a s e ,   c o n g r a t u l a t i o n s ! \ r \ n \ r \ n N o w   t h a t   y o u ' v e   p a s s e d   t h i s   m i l e s t o n e ,   w e   r e q u i r e   y o u   t o   j o i n   t h e   D i s c o r d   a n d   e n t e r   y o u ' r e   b a s e   c o r d i n a t e s .   T h i s   w a y ,   a d m i n s   c a n   f i n d   y o u r   b a s e   a n d   e n s u r e   n o   c o m m u n i t y   s t a n d a r d s   a r e   b e i n g   b r e a c h e d ,   i . e .   p i l l a r i n g ,   o f f l i n e   b r e e d i n g   e t c .   a n d   a l s o   t o   c h e c k   w h e t h e r   y o u ' r e   s t i l l   a c t i v e .   T h i s   i s   r e q u i r e d   t o   e n s u r e   t h e   s e r v e r   i s n ' t   c l o g g e d   u p   w i t h   d e c a y e d   b a s e s . \ r \ n \ r \ n T h e   n e x t   s t e p   i s   t h e   M o n t h l y   F l a g   S y s t e m ,   a s   p e r   t h e   b e l o w   t a b .   " , 
+ 
+ 	 	 	 	 " t i t l e 3 " :   " M o n t h l y   F l a g   S y s t e m " , 
+ 
+ 	 	 	 	 " t e x t 3 " :   " T o   e n s u r e   t h e   a d m i n s   c a n   k e e p   t h e   s e r v e r   r u n n i n g   s m o o t h l y   a n d   q u i c k l y   e n s u r e   p l a y e r s   a r e   a c t i v e ,   a   m o n t h l y   f l a g   s y s t r e m   h a s   b e e n   i m p l e m e n t e d . \ r \ n \ r \ n E a c h   m o n t h   t h e   A d m i n s   w i l l   n o m i n a t e   a   f l a g   c o l o r   t h e y   w i l l   p o s t   t h i s   i n   t h e   ' W e l c o m e '   t a b   u n d e r   t h e   w h a t s   n e w   h e a d i n g   a s   w e l l   a s   i n   t h e   D i s c o r d > c h a n n e l > m o n t h l y   f l a g   s y s t e m . \ r \ n \ r \ n E v e r y o n e ,   i s   r e q u i r e d   t o   h a v e   t h e   s p e c i f i e d   c o l o r   f l a g   p l a c e d   o n   t h e i r   b a s e   i n   a   v e r y   v i s i b l e   l o c a t i o n   i . e .   o n   t o p ,   a r o u n d ,   i n   f r o n t   o f   t h e i r   b a s e . \ r \ n \ r \ n T h i s   m u s t   b e   d o n e ,   p r i o r   t o   t h e   1 0 t h   o f   e v e r y   m o n t h ,   g i v i n g   y o u   a   m i n i m u m   1 0   d a y s   t o   g e t   a   f l a g   a n d   d y e   s o r t e d   e a c h   m o n t h . " 
+ 
+ 	 	 	 } 
+ 
+ 	 	 } , 
+ 
+ 	 	 { 
+ 
+ 	 	 	 " t a b 3 " : 
+ 
+ 	 	 	 { 
+ 
+ 	 	 	 	 " l a y o u t " :   4 , 
+ 
+ 	 	 	 	 " b u t t o n t e x t " :   " M o d   L i s t   /   H i g h l i g h t " , 
+ 
+ 	 	 	 	 " t i t l e 1 " :   " M o d s   L i s t " , 
+ 
+ 	 	 	 	 " t e x t 1 " :   " A l l   m o d s   i n   a l p h a b e t i c a l   o r d e r : \ r \ n 1 . \ t A n y   C o l o u r   S e t s   [ C r o s s p l a y ]   \ r \ n 2 . \ t A u t o m a t e d   A r k   \ r \ n 3 . \ t C h e t u ' s   T o o l s   \ r \ n 4 . \ t C l i f f a n s   W a r d r o b e   ( C D M )   [ A r m o r   &   C l o t h i n g ]   \ r \ n 5 . \ t C l i f f P l a t f o r m s   \ r \ n 6 . \ t C o n f i g u r a b l e   C r y o p o d s   \ r \ n 7 . \ t D e a t h   I n v e n t o r y   K e e p e r   ( C r o s s - P l a t f o r m )   \ r \ n 8 . \ t D r a c o n i c   C h r o n i c l e s   ( W y v e r n s   a n d   m o r e )   ( C r o s s p l a y )   \ r \ n 9 . \ t E a s y   M u t a t i o n s   \ r \ n 1 0 . \ t E z   E n g r a m   U n l o c k e r   ( P C / X b o x / P S )   \ r \ n 1 1 . \ t G r y p h o n s   \ r \ n 1 2 . \ t K l i n g e r   A d d i t i o n a l   S t r u c t u r e s   \ r \ n 1 3 . \ t m a e w i n g s   \ r \ n 1 4 . \ t M a n t i s   A d d i t i o n   \ r \ n 1 5 . \ t N e t   P r o j e c t i l e   \ r \ n 1 6 . \ t R e s o u r c e   G a t h e r e r s   \ r \ n 1 7 . \ t S - D i n o   V a r i a n t s   [ C r o s s p l a y ]   \ r \ n 1 8 . \ t S h i n y !   D i n o s   A s c e n d e d   \ r \ n 1 9 . \ t S i n o m a c r o p s   \ r \ n 2 0 . \ t S n o w O w l s   \ r \ n 2 1 . \ t S u p e r   S p y g l a s s   P l u s   \ r \ n 2 2 . \ t T e k   C r e a t u r e s   ( C r o s s p l a y   V e r s i o n )   \ r \ n 2 3 . \ t T e l e p o r t e r s A S A   \ r \ n 2 4 . \ t T G   S t a c k i n g   M o d   1 0 0 0 0 - 9 0   \ r \ n 2 5 . \ t U n l i m i t e d   G r a p p l e   \ r \ n 2 6 . \ t V e l o n a s a u r :   P o r t   a n d   T w e a k s   [ C r o s s p l a y ]   \ r \ n 2 7 . \ t W B U I 2   " , 
+ 
+ 	 	 	 	 " i m a g e u r l " :   " h t t p s : / / i . i m g u r . c o m / x M l 1 y b M . j p e g " , 
+ 
+ 	 	 	 	 " t i t l e 2 " :   " M o d   H i g h l i g h t   -   S h i n y !   D i n o s   A s c e n d e d   " , 
+ 
+ 	 	 	 	 " t e x t 2 " :   " A b o u t   t h i s   m o d : \ r \ n S h i n y   w i l l   p o p u l a t e   y o u r   A r k   w i t h   a   n u m b e r   o f   r a r e   a n d   s p e c i a l   D i n o s ,   w h i c h   y o u   c a n   t a m e   f o r   t h e i r   c o l o r s ,   t h e i r   s p e c i a l   a b i l i t i e s ,   o r   j u s t   t h e i r   h i g h e r   l e v e l .   O r   y o u   c a n   h u n t   t h e m   f o r   t h e   r e w a r d s . \ r \ n \ r \ n S h i n y   D i n o s   a r e   m a d e   f r o m   o v e r   4 0   u n i q u e   a n d   d i s t i n c t   c o l o r   s e t s ,   d r a w i n g   f r o m   a l l   a v a i l a b l e   c o l o r s   i n   t h e   g a m e ,   i n c l u d i n g   a l l   t h e   n e w   D y e   c o l o r s ,   w h i c h   w e r e   c a r e f u l l y   a r r a n g e d   t o   p r o d u c e   b e a u t i f u l   D i n o s   w h i c h   s t i l l   l o o k   n a t u r a l ,   b u t   v e r y   d i f f e r e n t   f r o m   w h a t   y o u   a r e   u s e d   t o   o n   t h e   A r k . \ r \ n \ r \ n A n d   t o   t o p   i t   a l l   o f f ,   t h e r e   a r e   n u m e r o u s   r a r e   s p e c i a l   a b i l i t i e s   t h a t   S h i n y   D i n o s   c a n   b e   b o r n   w i t h ,   a m o n g   t h e m   F r o z e n ,   B u r n i n g ,   S p e c t r a l ,   a n d   m o r e   -   a n d   m a n y   m o r e   y e t   t o   c o m e ! \ r \ n \ r \ n T o   h e l p   i n   y o u r   s e a r c h   o f   S h i n y   D i n o s ,   y o u   c a n   u s e   t h e   i n c l u d e d   T r a c k e r   -   a l t h o u g h   i t   m a y   n o t   b e   p e r f e c t l y   a c c u r a t e ,   i t ' l l   p o i n t   y o u   i n   t h e   r i g h t   d i r e c t i o n ! \ r \ n \ r \ n K i l l   R e w a r d s : \ r \ n K i l l i n g   S h i n y   D i n o s   c a n   a l s o   b e   v e r y   r e w a r d i n g .   N o t   o n l y   d o   y o u   g e t   r a r e   r e s o u r c e s ,   k i b b l e ,   a n d   o t h e r   a s s o r t e d   g o o d i e s ,   i t ' l l   a l s o   u n l o c k   a   b i t   o f   e x t r a   k n o w l e d g e   a n d   t e a c h   y o u   a   T e k   E n g r a m . \ r \ n \ r \ n D i d   y o u   m i s s   a   h o l i d a y   e v e n t ,   o r   d i d   y o u   s t a r t   a   n e w   s e r v e r ,   a n d   a r e   y e a r n i n g   f o r   s o m e   C h i b i s   t o   c a l l   y o u r   o w n ?   K i l l i n g   a   S h i n y   h a s   a   c h a n c e   t o   r e w a r d   y o u   w i t h   a n y   o n e   C h i b i   c u r r e n t l y   a v a i l a b l e ! \ r \ n " , 
+ 
+ 	 	 	 	 " t i t l e 3 " :   " M o d   H i g h l i g h t   -   A u t o m a t e d   A r k " , 
+ 
+ 	 	 	 	 " t e x t 3 " :   " A b o u t   t h i s   m o d : \ r \ n C o m p l e t e   w i t h   e v e r y t h i n g   y o u   l o v e d   i n   A u t o m a t e d   A r k   i n   A r k   S u r v i v a l   E v o l v e d   i n c l u d i n g   A u t o   P u l l i n g ,   O C D   S t o r a g e ,   E g g   M a n a g e m e n t ,   a n d   m u c h   m o r e ! \ r \ n \ r \ n S e t t i n g   u p   t h i s   m o d   c a n   b e   c o n f u s i n g ,   t h e   b e l o w   ' A u t o m a t e d   A r k   S e t u p   t a b   w i l l   t a k e   y o u   t o   a   y o u t u b e   l i n k   t h a t   w i l l   g u i d e   y o u   i n   s e t t i n g   u p   t h i s   m o d .   O n c e   i t   i s   s e t   u p ,   i t   c a n   p u l l ,   p u s h   a n d   s o r t   i t e m s   a u t o m a t i c a l l y !   N o   m o r e   h a v i n g   t o   r e m e m b e r   /   r u n   t o   a   s t o r a g e   b o x . \ r \ n \ r \ n I f   y o u ' r e   u n a b l e   t o   g e t   t h i s   w o r k i n g ,   a s k   a n   a d m i n   o r   s o m e   o f   t h e   s e n i o r   p l a y e r s   a n d   t h e y   w i l l   g u i d e   y o u   a l s o . " , 
+ 
+ 	 	 	 	 " t i t l e 4 " :   " M o d   H i g h l i g h t   -   C h e t u ' s T o o l s " , 
+ 
+ 	 	 	 	 " t e x t 4 " :   " A b o u t   t h i s   m o d : \ r \ n C h e t u ' s   T o o l s   i s   a   c u s t o m   s e t   o f   t o o l s   d e v e l o p e d   b y   t h e   C h e t u   C o m m u n i t y .   T h i s   m o d   p r o v i d e s   v a r i o u s   t o o l s   t h a t   w i l l   a i d   y o u   i n   v a r i o u s   t a s k s   s u c h   a s   r e s o u r c e   g a t h e r i n g ,   b u i l d i n g   o r   t a m i n g   c r e a t u r e s . \ r \ n \ r \ n A l l   C h e t u ' s   T o o l   e n g r a m s   a r e   l a b e l l e d   C T .   S o m e   r e c o m m e n d e d   ( b u t   n o t   l i m i t e d   t o )   t o o l s / i t e m s   t o   c r a f t   f i r s t   a r e : \ r \ n \ r \ n S p o i l   a n d   C r a f t e r   -   A   s t r u c t u r e   t h a t   i s   u s e d   t o   c r a f t   t h e   m e t a l   t o o l s   f o r   t h e   m o d   a s   w e l l   a s   b e i n g   a b l e   t o   c r a f t   C e m e n t i n g   P a s t e   f o r   h a l f   t h e   c o s t   a n d   a t   g r e a t e r   s p e e d .   A l s o   q u i c k l y   s p o i l s   a n y   m e a t   y o u   p l a c e   i n   i t ,   1   t o   1   f o r   R a w   M e a t   t y p e s   a n d   1   t o   3   f o r   P r i m e   M e a t   t y p e s .   C a n   c o n v e r t   o r g a n i c   p o l y m e r   t o   p o l y m e r   a t   a   2   t o   1   r a t e   ( 2   o r g a n i c   p o l y m e r   t o   1   p o l y m e r ) .   A l l   c r a f t e d   i t e m s   a r e   c r a f t e d   i n   t h e   S p o i l   a n d   C r a f t e r   s t r u c t u r e ,   b o l a ,   t r a n q   b o l a ,   s m a l l   a n d   m e d i u m   h e a l i n g   e l i x i r s ,   a n d   p i c k u p   r e l i c   c a n   b e   c r a f t e d   i n   t h e   p l a y e r   i n v e n t o r y   a s   w e l l . \ r \ n \ r \ n B o n u s   H a t c h e t ,   P i c k   a n d   S i c k l e   -   T h e   o n l y   o n e s   y o u ' l l   e v e r   n e e d .   N e v e r   b r e a k s ,   p r o v i d e s   2 5 0 %   n o r m a l   h a r v e s t i n g .   T h e   p i c k   a n d   s i c k l e   a l s o   g i v e   a d d i t i o n a l   r e s o u r c e s   i . e .   s i c k l e   c a n   p r o v i d e d   c e m e n t i n g   p a s t e ,   b l a c k   p e a r l s   e t c . \ r \ n \ r \ n T r a n q   A r r o w s   -   I n   s t r o n g e r   v a r i a n t s   2 x ,   4 x ,   1 0 x   a n d   2 0 x   t h e   s t r e n g t h   o f   r e g u l a r   t r a n q s .   T h e   5 0 x   a n d   1 0 0 x   v a r i a n t s   h a v e   b e e n   d i s a b l e d   b y   A R K   U n i v e r s e   f o r   a   m o r e   b a l a n c e d   t a m i n g   e x p e r i e n c e . \ r \ n \ r \ n V a r i o u s   E l i x i r s   -   H e a l i n g ,   t a m i n g ,   e x p e r i e n c e ,   i m p r i n t i n g ,   q u i c k   m a t i n g   a n d   d i n o   g e n d e r   c h a n g e   e l i x i r s   t o   n a m e   a   f e w ! \ r \ n   \ r \ n T e k   G e n e r a t o r   -   G r e a t e r   r a n g e   a n d   d o e s   n o t   t a k e   e l e m e n t   t o   c r a f t   a n d   u s e s   o i l   t o   g e n e r a t e   p o w e r . \ r \ n \ r \ n V a r i o u s   R e s o u r c e s   -   C u s t o m   b e r r i e s   f o r   c r a f t i n g   m o d   i t e m s   s u c h   a s   t h e   o n e s   l i s t e d   a b o v e . \ r \ n \ r \ n C h e c k   o u t   t h i s   a w e s o m e   m o d   t o   m a k e   y o u r   g a m e p l a y   t h a t   m u c h   m o r e   e n j o y a b l e . \ r \ n " 
+ 
+ 	 	 	 } 
+ 
+ 	 	 } , 
+ 
+ 	 	 { 
+ 
+ 	 	 	 " t a b 4 " : 
+ 
+ 	 	 	 { 
+ 
+ 	 	 	 	 " l a y o u t " :   3 , 
+ 
+ 	 	 	 	 " b u t t o n t e x t " :   " M o d   H i g h l i g h t " , 
+ 
+ 	 	 	 	 " t i t l e 1 " :   " M o d   H i g h l i g h t   -   E a s y   M u t a t i o n s " , 
+ 
+ 	 	 	 	 " t e x t 1 " :   " D u e   t o   t h e   i n c r e a s e   t a m e   l e v e l s ,   t h e   b o s s e s   a l s o   h a v e   i n c r e a s e d   h e a l t h   a n d   d a m a g e .   I f   y o u ' r e   w a n t i n g   t o   t a k e   t h e m   o n ,   y o u ' l l   n e e d   t o   b r e e d   u p   s o m e   t a m e s .   E a s y   M u t a t i o n s   i s   t h e   p e r f e c t   m o d   f o r     t h i s ! \ r \ n \ r \ n A b o u t   t h i s   m o d : \ r \ n A d d s   p o t i o n s   t h a t   w h e n   f e d   t o   f e m a l e   c r e a t u r e s   i t   w i l l   g u a r a n t e e   f o r   t h e   n e x t   3 0   m i n u t e s   a n y   b r e d   c r e a t u r e s   w i l l   h a t c h   w i t h   m u t a t i o n s . \ r \ n \ r \ n T h e r e   a r e   4   d i f f e r e n t   p o t i o n s   ( x 1 ,   x 5 ,   x 1 0   &   x 2 0 )   t h a t   w i l l   g r a n t   m o r e   m u t a t i o n s   b a s e d   o n   w h i c h   o n e   i s   c o n s u m e d . \ r \ n \ r \ n T h e   e n g r a m   c a n   b e   u n l o c k e d   a t   l e v e l   1   a n d   c r a f t e d   i n   t h e   p l a y e r   i n v e n t o r y . \ r \ n \ r \ n F o r   m u t a t i o n s   k e e p   i n   m i n d   t h a t   t h i s   w i l l   i n c r e a s e   y o u r   m u t a t i o n s   w h i l e   o n l y   a c t u a l l y   g e n e r a t i n g   o n e   m u t a t i o n   e n t r y   t o   t h e   c r e a t u r e   a n c e s t r y   h o w e v e r ,   w i l l   g e n e r a t e   x   2   s t a t   p o i n t s   p e r   m u t a t i o n . \ r \ n \ r \ n K e y   p o i n t s   t o   u s e   t h i s   m o d   e f f e c t i v e l y : \ r \ n -   M u t a t i o n s   a r e   o n l y   g u a r a n t e e d   t o   w o r k   i f   f e d   t o   f e m a l e s   \ r \ n -   E n s u r e   t h e   s t a c k s   a d d e d   w o n ' t   e x c e e d   t h e   m u t a t i o n   c a p   o f   2 5 4   o t h e r w i s e   n o   n e w   m u t a t i o n s   w i l l   b e   a d d e d   t o   t h e   b a b y \ r \ n -   A l w a y s   b r e e d   f o r   o n e   s t a t   a t   a   t i m e ,   i t   g e t s   m e s s y   o t h e r w i s e \ r \ n \ r \ n A   g u i d e   t o   b r e e d i n g   t h e   c o r r e c t   w a y   w i t h   t h i s   m o d : \ r \ n 1 . \ t S t a r t   w i t h   1   x   m a l e   1   x   f e m a l e   ( w i t h   m a t c h i n g   s t a t s   b e c a u s e   y o u ' v e   a l r e a d y   b r e d   t h e m   t o   h a v e   t h e   b e s t   p o s s i b l e   s t a r t i n g   s t a t s .   i f   n o t   c h e c k   o u t   a   b a s i c   b r e e d i n g   g u i d e   v i d e o   o n   y o u t u b e   f i r s t ) .   T h e s e   t w o   w i l l   b e   y o u r   b a s e / c l e a n   b r e e d i n g   p a i r   f r e e   o f   m u t a t i o n s \ r \ n 2 . \ t K e e p   b r e e d i n g   t h e m   t o g e t h e r   t i l l   y o u   g e t   a   b u n c h   o f   f e m a l e s   ( o r   g e n d e r   s w a p   t h e   m a l e s   t o   f e m a l e ) .   K e e p   o n e   m a l e .   K i l l   a n y   t a m e s   t h a t   h a v e   m u t a t i o n s \ r \ n 3 . \ t O n c e   y o u   h a v e   a   d e c e n t   a m o u n t ,   p u t   y o u r   m a l e   i n   t h e   m i d d l e   o f   a l l   t h e   f e m a l e s .   Y o u ' r e   n o w   r e a d y   f o r   t h e   f i r s t   s t a g e   o f   m u t a t i n g   t h e   p e r f e c t   t a m e \ r \ n 4 . \ t S t a g e   o n e ,   f e e d   a l l   f e m a l e s   x 5 0   m u t a t i o n   p o t i o n s ,   w h i c h   i s   t h e   m a x   p e r   a t t e m p t   ( e i t h e r   5 0   x   1   p o t i o n s ,   1 0   x   5   p o t i o n s ,   5   x   1 0   p o t i o n s   o r   3   x   2 0   p o t i o n s ) \ r \ n 5 . \ t A   x 5 0   a n d   p o t i o n   s y m b o l   w i l l   b e   a b o v e   t h e i r   h e a d s   i f   d o n e   r i g h t \ r \ n 6 . \ t S e t   a l l   t o   b r e e d ,   w a i t   f o r   g e s t a t i o n   /   i n c u b a t i o n   o f   e g g   ( r e c o m m e n d   o v i r a p t o r   o r   i n c u b a t i o n   m o d   t o   a s s i s t ) \ r \ n 7 . \ t H a t c h   a l l   e g g s   t h e n   c h e c k   t h e   s t a t s ,   u s i n g   s u p e r   s p y g l a s s   o r   t e k   b i n o c u l a r s   ( i f   y o u ' v e   u n l o c k e d   i t ) .   Y o u   w i l l   s e e   t h a t   a   r a n d o m   s t a t   w i l l   h a v e   1 0 0   p o i n t s   i n   t h e   m u t a t i o n   s l o t .   F o r   t h e   f i r s t   r o u n d   s e t   a s i d e   o n e   t a m e   a s i d e   f o r   e a c h   m u t a t e d   s t a t   i . e .   1 x   t a m e   f o r   H e a l t h ,   1   x   t a m e   f o r   S t a m i n a   e t c .   R e p e a t   t h e   a b o v e   s t a g e s   u n t i l   y o u   h a v e   o n e   t a m e   f o r   e a c h   o f   t h e   6   s t a t s ,   e n s u r e   e a c h   o f   t h e m   a r e   m a l e   ( o r   g e n d e r   s w a p   t h e m ) ,   c o n g r a t u l a t i o n s   s t a g e   o n e   i s   c o m p l e t e \ r \ n 8 . \ t S t a g e   t w o ,   r e m o v e   t h e   b a s e / c l e a n   m a l e   a n d   r e p l a c e   w i t h   o n e   o f   t h e   1 0 0   p o i n t   m u t a t e d   m a l e s   f o r   e x a m p l e   H e a l t h   x 1 0 0 .   R e p e a t   s t e p s   4 - 7 .   U n t i l   y o u   g e t   a   t a m e   w i t h   t h e   m u t a t e d   s t a t   o f   y o u r   c h o s e n   m a l e   h o w e v e r   t h i s   t i m e   x 2 0 0 .   I n   t h i s   e x a m p l e   i t   w o u l d   b e   x 2 0 0   n o w .   C o n g r a t u l a t i o n s   y o u  r e   r e a d y   f o r   s t a g e   3 \ r \ n 9 . \ t S t a g e   t h r e e ,   r e m o v e   t h e   m a l e   w i t h   x   1 0 0   m u t a t e d   p o i n t s   a n d   r e p l a c e   w i t h   t h e   x 2 0 0   v e r s i o n   f o r   t h i s   e x a m p l e   t h e   x 2 0 0   h e a l t h .   R e p e a t   t h e   a b o v e   s t e p s   h o w e v e r   i n s t e a d   r e p l a c e   i t   w i t h   x 2 7   m u t a t i o n   p o t i o n s   ( u s i n g   a   m i x t u r e   o f   t h e   v a r i o u s   x 1 ,   x 5 ,   x 1 0   a n d   x   2 0   p o t i o n s )   c a r e f u l   n o t   t o   e x c e e d   2 7   p o i n t s   i n   t o t a l   a s   y o u  l l   g o   o v e r   t h e   2 5 4   m u t a t i o n   s t a t   l i m i t   a n d   n o t h i n g   w i l l   h a p p e n \ r \ n 1 0 . \ t R e p e a t   t h i s   u n t i l   y o u   g e t   a   t a m e   w i t h   2 5 4   m u t a t i o n   p o i n t s   i n   t h e   s t a t ,   h e a l t h   2 5 4   f o r   t h i s   e x a m p l e .   C o n g r a t u l a t i o n s   y o u  v e   f u l l y   m a x e d   o u t   o n e   s t a t s   m u t a t i o n   p o i n t s \ r \ n 1 1 . \ t R e p e a t   s t e p s   9 - 1 0   u n t i l   y o u   h a v e   a   2 5 4   m a x   m u t a t i o n   f o r   e a c h   s t a t \ r \ n 1 2 . \ t N o w ,   b r e e d   t h e m   t o g e t h e r   u n t i l   y o u   h a v e   2   x   t a m e s   w i t h   2 5 4   m u t a t i o n   p o i n t s   o n   a l l   6   x   s t a t s \ r \ n 1 3 . \ t W h e n   d o i n g   t h i s ,   b r e e d   b e   m i n d f u l   t o   o n l y   d o   o n e   a   t i m e   i . e .   g r a b   t h e   2 5 4   h e a l t h   a n d   s t a m i n a   a n d   b r e e d   t h e m   u n t i l   y o u   g e t   a   t a m e   w i t h   2 5 4   i n   b o t h   h e a l t h   a n d   s t a m i n a .   T h e n   u s e   t h i s   t a m e   w i t h   t h e   n e x t   s t a t   i . e .   h e a l t h / s t a m i n a   2 5 4   b r e d   w i t h   m e l e e   2 5 4   a n d   s o   o n   u n t i l   a l l   6   s t a t s   a r e   b r e d   i n t o   y o u r   n e w   s u p e r   s t r o n g   t a m e .   \ r \ n " , 
+ 
+ 	 	 	 	 " i m a g e u r l " :   " h t t p s : / / i . i m g u r . c o m / x M l 1 y b M . j p e g " , 
+ 
+ 	 	 	 	 " t i t l e 2 " :   " M o d   H i g h l i g h t   -   R e s o u r c e   G a t h e r e r s " , 
+ 
+ 	 	 	 	 " t i t l e 3 " :   " T e l e p o r t e r s   A S A " , 
+ 
+ 	 	 	 	 " t e x t 2 " :   " F o r   t h o s e   w h o   h a t e   t h e   g r i n d   o f   r e s o u r c e   g a t h e r i n g   a n d   w a n t   t o   s e t   s o m e t h i n g   a n d   l e t   i t   g o ,   y e t   s t i l l   r e q u i r e   a   b i t   o f   e f f o r t   t o   c r a f t   i n t i a l l y ,   r e s o u r c e   g a t h e r e r s   m o d   i s   f o r   y o u ! \ r \ n \ r \ n A b o u t   t h i s   m o d : \ r \ n R e s o u r c e   G a t h e r e r s   a d d s   t h r e e   p r o g r e s s i v e l y   b e t t e r   t i e r s   o f   g a t h e r e r s   t h a t   g e n e r a t e   r e s o u r c e s   f o r   y o u .   \ r \ n \ r \ n F e a t u r e s : \ r \ n O v e r   6 0   g a t h e r a b l e   r e s o u r c e s   c u r r e n t l y   i n c l u d e d   a n d   c o u n t i n g . \ r \ n T h e   t h r e e   t i e r s   o f   g a t h e r e r s : \ r \ n T i e r   O n e   -   G e n e r a t e s   i t e m s   e v e r y   6 0   s e c o n d s \ r \ n T i e r   T w o   -   G e n e r a t e s   i t e m s   e v e r y   3 0   s e c o n d s \ r \ n T i e r   T h r e e   -   G e n e r a t e s   i t e m s   e v e r y   1 0   s e c o n d s \ r \ n \ r \ n T o   s t a r t ,   c r a f t   t h e   R G :   C r a f t e r ,   t h i s   m a c h i n e   i s   w h e r e   y o u   w i l l   m a k e   a l l   t i e r s   o f   g a t h e r e r s   a n d   a l l   r e s o u r c e   t e m p l a t e s . \ r \ n \ r \ n C r a f t   y o u r s e l f   a n d   p l a c e   a n   R G :   G a t h e r e r ,   a n y   t i e r   w i l l   d o ,   t h e   h i g h e r   t h e   t i e r ,   t h e   f a s t e r   i t   w i l l   g e n e r a t e   r e s o u r c e s . \ r \ n \ r \ n A f t e r   p l a c i n g   a n y   t i e r   o f   g a t h e r e r ,   y o u   w i l l   n e e d   t o   p r o v i d e   i t   w i t h   p o w e r ,   e i t h e r   r e g u l a r   o r   T E K   p o w e r . \ r \ n \ r \ n O n c e   y o u r   g a t h e r e r   i s   p o w e r e d ,   p l a c e   a   r e s o u r c e   t e m p l a t e   ( a l s o   c r a f t e d   i n   t h e   R G :   C r a f t e r )   i n   t h e   o f f h a n d   s l o t   ( N a m e d   \ " R G :   . . . \ "   i n   y o u r   e n g r a m s ) . \ r \ n \ r \ n Y o u r   g a t h e r e r   w i l l   t h e n   b e g i n   t o   g e n e r a t e   r e s o u r c e s . " , 
+ 
+ 	 	 	 	 " t e x t 3 " :   " D i d   y o u r   f l y i n g   t a m e   d i e d   a n d   y o u ' r e   s t u c k   i n   t h e   m i d d l e   o f   n o w h e r e ? \ r \ n D i d   y o u   f i n d   a   r e a l l y   n i c e   s p o t   o n   t h e   m a p   y o u   w i s h   y o u   c o u l d   f a s t   t r a v e l   b a c k   t o ? \ r \ n A r e   y o u   f i g h t i n g   s o m e t h i n g   a n d   f o r g o t   t o   p a c k   y o u r   f a v o u r i t e   t a m e   t o   m u n c h   s o m e   e n e m i e s ? \ r \ n \ r \ n T e l e p o r t e r s   A S A   m o d   h a s   y o u   c o v e r e d !   W e l l ,   a s   l o n g   a s   y o u   h a v e   t h e   r e m o t e   h a n d y ! \ r \ n \ r \ n A b o u t   t h i s   m o d : \ r \ n T h i s   m o d   c o m e s   w i t h   3   x   i t e m s   a n d   b e   c r a f t e r   i n   t h e   p l a y e r s   i n v e n t o r y : \ r \ n -   T e l e p o r t e r \ r \ n -   T e l e p o r t e r   R e m o t e \ r \ n -   D i n o   T r a c k e r   ( s h o u l d   b e   c a l l e d   d i n o   t e l e p o r t e r   l o l ) \ r \ n \ r \ n P l a c e   t h e   t e l e p o r t e r   a n y w h e r e   y o u   w a n t   t o   b e   a b l e   t o   t e l e p o r t   t o   a n d   f r o m .   U s i n g   t h e   r e m o t e   o r   g o i n g   i n t o   t h e   r a d i a l   m e n u   o f   t h e   t e l e p o r t   a l l o w s   y o u   t o   u s e   t h e   t e l e p o r t e r .   \ r \ n \ r \ n U s i n g   t h e   r e m o t e   c l i c k   t h e   l e f t   m o u s e   b u t t o n   ( o r   l e f t   t r i g g e r   o n   c o n s o l e s )   t o   o p e n   t h e   t e l e p o r t a t i o n   l i s t   U I ,   s e l e c t   t h e   l o c a t i o n   t o   t e l e p o r t   t o .   O t h e r   m e m b e r s   o n   t h e   s e r v e r   m a y   h a v e   p l a c e d   p u b l i c   t e l e p o r t e r s   a r o u n d   y o u   c a n   u s e   a l s o ! \ r \ n \ r \ n A f t e r   f e e d i n g   a   t a m e   t h e   d i n o   t r a c k e r ,   y o u   c a n   u s e   t h e   r e m o t e   c o n t r o l   t o   q u i c k l y   t e l e p o r t   t h e   d i n o s a u r   t o   y o u r   s i d e   b y   p r e s s i n g   r i g h t   c l i c k   o n   P C   o r   r i g h t   t r i g g e r   o n   c o n s o l e s .   A n y   d i n o   y o u ' v e   f e d   t h e   t r a c k e r   t o   c a n   b e   s e l e c t e d   i n   t h i s   m e n u .   B e   c a r e f u l   h o w e v e r ,   i f   y o u ' v e   c r y o ' d   t h i s   t a m e   s i n c e   e a t i n g   t h e   t r a c k e r ,   t h e   t r a c k e r   w i l l   b e   r e m o v e d   a n d   w i l l   n e e d   t o   b e   f e d   t o   i t   a g a i n . " 
+ 
+ 	 	 	 } 
+ 
+ 	 	 } , 
+ 
+ 	 	 { 
+ 
+ 	 	 	 " t a b 5 " : 
+ 
+ 	 	 	 { 
+ 
+ 	 	 	 	 " l a y o u t " :   1 , 
+ 
+ 	 	 	 	 " b u t t o n t e x t " :   " S e r v e r   R a t e s   /   S e t t i n g s " , 
+ 
+ 	 	 	 	 " t i t l e 1 " :   " S e r v e r   R a t e s " , 
+ 
+ 	 	 	 	 " t e x t 1 " :   " 1 . \ t B a b y I m p r i n t A m o u n t M u l t i p l i e r   x   5 \ r \ n 2 . \ t B a b y M a t u r e S p e e d M u l t i p l i e r   x   8 \ r \ n 3 . \ t C r a f t X P M u l t i p l i e r   x   1 0 \ r \ n 4 . \ t C r a f t X P M u l t i p l i e r   x   1 0 \ r \ n 5 . \ t D i n o T u r r e t D a m a g e M u l t i p l i e r   x   2 0 0 0 \ r \ n 6 . \ t E g g H a t c h S p e e d M u l t i p l i e r   x   2 0 \ r \ n 7 . \ t G e n e r i c X P M u l t i p l i e r   x   2 \ r \ n 8 . \ t H a r v e s t G a t h e r i n g   x   1 0 \ r \ n 9 . \ t H a r v e s t X P M u l t i p l i e r   x   3 \ r \ n 1 0 . \ t K i l l X P M u l t i p l i e r   x   5 \ r \ n 1 1 . \ t L a y E g g I n t e r v a l M u l t i p l i e r   x   0 . 5 \ r \ n 1 2 . \ t M a t i n g I n t e r v a l M u l t i p l i e r   x   0 . 5 \ r \ n 1 3 . \ t O v e r r i d e O f f i c i a l D i f f i c u l t y   x   2 0   =   6 0 0   W i l d   D i n o   L e v e l \ r \ n 1 4 . \ t T h e M a x S t r u c t u r e s I n R a n g e   x   1 0 5 0 0 \ r \ n 1 5 . \ t S h i n y   M o d   D i n o   L e v e l s      6 0 0   M i n i m u m   8 0 0   M a x i m u m " , 
+ 
+ 	 	 	 	 " i m a g e u r l " :   " h t t p s : / / i . i m g u r . c o m / x M l 1 y b M . j p e g " 
+ 
+ 	 	 	 } 
+ 
+ 	 	 } 
+ 
+ 	 ] , 
+ 
+ 	 " l i n k s " :   [ 
+ 
+ 	 	 { 
+ 
+ 	 	 	 " l i n k 1 " : 
+ 
+ 	 	 	 { 
+ 
+ 	 	 	 	 " t e x t " :   " D i s c o r d " , 
+ 
+ 	 	 	 	 " u r l " :   " h t t p s : / / d i s c o r d . g g / U x D W g C g 7 " 
+ 
+ 	 	 	 } 
+ 
+ 	 	 } , 
+ 
+ 	 	 { 
+ 
+ 	 	 	 " l i n k 2 " : 
+ 
+ 	 	 	 { 
+ 
+ 	 	 	 	 " t e x t " :   " A u t o m a t e d   A r k   S e t u p " , 
+ 
+ 	 	 	 	 " u r l " :   " h t t p s : / / w w w . y o u t u b e . c o m / w a t c h ? v = C V c z t b z q M g U " 
+ 
+ 	 	 	 } 
+ 
+ 	 	 } 
+ 
+ 	 ] 
+ 
+ } 
+ 
+ }      None     
